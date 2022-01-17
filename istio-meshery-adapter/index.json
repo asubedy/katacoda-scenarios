@@ -8,7 +8,7 @@
       {
         "title": "Initialize Kubernetes...",
         "text": "step1.md",
-        "code": "step1-foreground.sh"
+        "code": "shell.sh"
       },
       {
         "title": "Install Istio",
@@ -54,6 +54,6 @@
   },
 
   "backend": {
-    "imageid": "kubernetes-cluster:1.18"
+    "imageid": "minikube"
   }
 }
