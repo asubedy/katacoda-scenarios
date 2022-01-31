@@ -7,7 +7,7 @@
     "steps": [
       {
         "title": "Initialize Kubernetes...",
-        "text": "step1.md"
+        "text": "step1.md",
         "code": "step1-foreground.sh"
       },
       {
