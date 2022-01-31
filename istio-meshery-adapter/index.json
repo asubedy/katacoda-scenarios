@@ -8,6 +8,7 @@
       {
         "title": "Initialize Kubernetes...",
         "text": "step1.md"
+        "code": "step1-foreground.sh"
       },
       {
         "title": "Install Istio",
